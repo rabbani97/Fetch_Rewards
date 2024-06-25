@@ -1,0 +1,5 @@
+name: "fetch_rewards_project"
+model-paths: ["models"]
+# seed-paths: ["custom-seeds"]
+analysis-paths: ["analyses"]
+macro-paths: ["macros"]
