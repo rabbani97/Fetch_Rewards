@@ -1,0 +1,9 @@
+sources:
+
+  - name: fetch_rewards
+    database: DB_ECOMM
+    schema: SC_ECOMM
+    tables:
+      - name: "USERS"
+      - name: "RECEIPTS"
+      - name: "BRANDS"
